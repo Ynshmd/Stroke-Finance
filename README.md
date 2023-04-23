@@ -3,7 +3,7 @@
 # Architecture ![icons8-restauration-de-base-de-données-30](https://user-images.githubusercontent.com/118398845/214827690-29f8d27a-0924-41a1-b497-621daf362856.png)
 
 
-Ce Github est un projet d'architecture Base de donnée.Dans ce projet nous allons travailler avec le site de la centrale afin de prendre les données des véhicule (Modele , prix ,année , région) en coorélation avec leur cotation bourssière . 
+Stroke fiance est un projet d'architecture Base de donnée.Dans ce projet nous allons travailler avec le site de LA CENTRALE afin de prendre les données des véhicule (Modele , prix ,année , région) en coorélation avec leur cotation bourssière . 
 
 Nous avons utilisé la centrale afin de récolter les données de ventes de véhicule d'occasion. Pour pouvoir récolter ces donnée nous nous sommes aidé de [Web Scrapper], puis nous avons fais un script en python .
 
