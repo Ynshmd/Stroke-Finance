@@ -94,5 +94,21 @@ Une fois toute les installations et configurations effecteur nous allons execute
 - Puis une fois le script executer vous pouvez aller sur Mongocompass et faire un "__Reload DATA__" afin de raffraichir la Data Base et voir si les données ont bien été insérer dans la Base: ![image](https://user-images.githubusercontent.com/118398845/214893686-217c8788-a47b-4a87-a294-b11924657b20.png)
 
 
+## Page Web 
 
+Nous avons utilisé flask comme framework pour notre page web .
+
+- Sur VisualStudio Code dans le dossier du site :
+  
+  - Lancer le run_server_flask
+  
+  
+## Recherche d'un vehicule
+  Capture d'écran
+  
+### Comparaison d'un Véhicule 
+
+  Capture D'écran
+
+## Démonstration du Projet 1ere Partie
 
