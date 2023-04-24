@@ -1,0 +1,83 @@
+Marque;Moteur centrale;Moteur;Type de carburant;Cylindré;Puissance maximale;Couple maximal;Consommation ;Note Consommation;Fiabilité/Cout réparation;Durée de la garantie;Performance
+Renault;1.0 SCE 65;SCe 65;Essence;1.0 ;65;95;5.2 ;3.5;4;2.5;2.5
+Renault;0.9 TCE 90;TCe 90;Essence;0.9 ;90;140;5.4 ;3.5;4;2.5;3
+Renault;1.0 TCE 100;TCe 100;Essence;1.0 ;100;160;5.5 ;3.5;3;2.5;3
+Renault;1.3 TCE 130;TCe 130;Essence;1.3 ;130;240;5.5 ;3.5;3.5;2.5;3.5
+Renault;1.3 TCE 140;TCe 140;Essence;1.3 ;140;240;5.7 ;3.5;3.5;2.5;3.5
+Renault;1.3 TCE 160;TCe 160;Essence;1.3 ;160;260;5.9 ;3.5;3;2.5;4
+Renault;1.5 DCI 95;Blue dCi 95;Diesel;1.5 ;95;240;4.4 ;5;3;2.5;3
+Renault;1.5 DCI 115;Blue dCi 115;Diesel;1.5 ;115;260;4.7 ;5;3;2.5;3.5
+Renault;1.7 DCI 150;Blue dCi 150;Diesel;1.7 ;150;340;4.9 ;4.5;3;2.5;4
+Renault;;Blue dCi 165;Diesel;2.0 ;165;380;5.2 ;4;3.5;2.5;4
+Renault;1.6 DCI 95;1.6 DCI 95;Diesel;1.6 ;95;260;6;4;3.5;2;3
+Renault;1.6 E-TECH 140;1.6 E-TECH 140;Hybride;1.6 ;140;144;4.0 ;4;3.5;2;3.5
+Renault;1.6 E-TECH 145;1.6 E-TECH 145;Hybride;1.6 ;145;148;4.9 ;4;3.5;2;3
+Renault;1.6 E-TECH 160;1.6 E-TECH 160;Hybride;1.6 ;160;144;1.2 ;4.5;3;2;3.5
+Renault;1.7 DCI 120;1.7 DCI 120;Diesel;1.7 ;120;300;4.9 ;4;3;2;3
+Renault;2.0 DCI 120;2.0 DCI 120;Diesel;2.0 ;120;320;5.8 ;4;3.5;2;3
+Renault;2.0 DCI 130;2.0 DCI 130;Diesel;2.0 ;130;320;6;3.5;3.5;2;3
+Renault;2.0 DCI 150;2.0 DCI 150;Diesel;2.0 ;150;340;6;3.5;3.5;2;3.5
+Renault;2.3 DCI 130;2.3 DCI 130;Diesel;2.3 ;130;330;7;3;4;2;3
+Renault;2.3 DCI 135;2.3 DCI 135;Diesel;2.3 ;135;360;6.7 ;3;4;2;3
+Renault;1.0 SCE 65;SCe 65;Essence;1.0 ;65;95;5.2 ;3.5;4;2.5;2.5
+Renault;0.9 TCE 90;TCe 90;Essence;0.9 ;90;140;5.4 ;3.5;4;2.5;3
+Renault;1.0 TCE 100;TCe 100;Essence;1.0 ;100;160;5.5 ;3.5;3;2.5;3
+Renault;1.3 TCE 130;TCe 130;Essence;1.3 ;130;240;5.5 ;3.5;3.5;2.5;3.5
+Renault;1.3 TCE 140;TCe 140;Essence;1.3 ;140;240;5.7 ;3.5;3.5;2.5;3.5
+Renault;1.3 TCE 160;TCe 160;Essence;1.3 ;160;260;5.9 ;3.5;3;2.5;4
+Renault;1.5 DCI 95;Blue dCi 95;Diesel;1.5 ;95;240;4.4 ;5;3;2.5;3
+Renault;1.5 DCI 115;Blue dCi 115;Diesel;1.5 ;115;260;4.7 ;5;3;2.5;3.5
+Renault;1.7 DCI 150;Blue dCi 150;Diesel;1.7 ;150;340;4.9 ;4.5;3;2.5;4
+Renault;;Blue dCi 165;Diesel;2.0 ;165;380;5.2 ;4;3.5;2.5;4
+Renault;0.9 TCE 110;0.9 TCE 110;Essence;0.9 ;110;170;5.7 ;3.5;4;2.5;3
+Renault;0.9 TCE 75;0.9 TCE 75;Essence;0.9 ;75;120;5;3;3;2;4.5
+Renault;1.0 SCE 70;1.0 SCE 70;Essence;1.0 ;70;92;5;3.5;3;3.5;2
+Renault;1.0 TCE 90;1.0 TCE 90;Essence;1.0 ;91;160;5.5 ;3.5;4;2.5;3.5
+Renault;1.0 TCE 91;1.0 TCE 91;Essence;1.0 ;91;160;5.5 ;3.5;4;2.5;3.5
+Renault;1.2 E-TECH 200;1.2 E-TECH 200;Hybride;1.2 ;200;230;4.6 ;3;2.5;2;2.5
+Renault;1.2 TCE 120;1.2 TCE 120;Essence;1.2 ;120;205;5.5 ;3.5;2.5;3;4
+Renault;1.2 TCE 130;1.2 TCE 130;Essence;1.2 ;130;205;5.3 ;3.5;2.5;3;4
+Renault;1.3 TCE 130;1.3 TCE 130;Essence;1.3 ;130;240;5.2 ;2.5;3.5;3.5;3.5
+Renault;1.3 TCE 115;1.3 TCE 115;Essence;1.3 ;115;220;5.1 ;4;3;2;3.5
+Renault;1.5 DCI 110;1.5 DCI 110;Diesel;1.5 ;110;260;3.5 ;4;3;2;3.5
+Renault;1.5 DCI 75;1.5 DCI 75;Diesel;1.5 ;75;180;4;4;3;3.5;3
+Renault;1.5 DCI 85;1.5 DCI 85;Diesel;1.5 ;86;200;4.4 ;4;3;3.5;3
+Renault;1.5 DCI 90;1.5 DCI 90;Diesel;1.5 ;90;220;3.3 ;4.5;3;3.5;3.5
+Renault;1.6 DCI 125;1.6 DCI 125;Diesel;1.6 ;125;320;5.6 ;3.5;3;2;4
+Renault;1.6 DCI 130;1.6 DCI 130;Diesel;1.6 ;130;205;6.2 ;4;3.5;3.5;3
+Renault;1.6 DCI 160;1.6 DCI 160;Diesel;1.6 ;160;380;4.5 ;3.5;3.5;3.5;4
+Renault;1.6 DCI 165;1.6 DCI 165;Diesel;1.6 ;165;380;4.6 ;3.5;3.5;3.5;4
+Volkswagen;2.0 TDI 122;2.0 TDI;Diesel;2.0 ;122;300;3.5 ;5;3.5;3;3.5
+Volkswagen;2.0 TDI 184;2.0 TDI;Diesel;2.0 ;184;380;5;3.5;3;3;3.5
+Volkswagen;2.0 TDI 200;2.0 TDI;Diesel;2.0 ;200;400;4.4 ;4;3.5;3.5;4
+Volkswagen;2.0 TDI 204;2.0 TDI;Diesel;2.0 ;204;450;6.8 ;4;3.5;3.5;4
+Volkswagen;2.0 TSI 200;2.0 TSI;Essence;2.0 ;200;280;7.9 ;3.5;3;2;4
+Volkswagen;2.0 TSI 320;2.0 TSI;Essence;2.0 ;320;420;7.8 ;3;3.5;3;4
+Volkswagen;3.0 TSI 462;3.0 TSI;Essence;3.0 ;462;600;6.9 ;3;3;2.5;4
+Volkswagen;62kWh 145;62kWh;Electrique;62;145;310;0;3.5;3.5;3;3.5
+Volkswagen;62kWh 204;62kWh;Electrique;62;204;310;0;3.5;3;3;4.5
+Audi;1.0 TFSI 95;1.0 TFSI;Essence;1.0 ;95;175;4.8 ;3.5;3;2;2.5
+Audi;1.0 30 110;1.0 TFSI;Essence;1.0 ;110;200;4.9 ;3;2.5;2;3.5
+Audi;1.0 TFSI 116;1.0 TFSI;Essence;1.0 ;116;200;4.7 ;3;2.5;2;3.5
+Audi;1.4 TFSI 150;1.4 TFSI;Essence;1.4 ;150;250;5.5 ;3.5;2.5;2;4
+Audi;1.5 TFSI 150;1.5 TFSI;Essence;1.5 ;150;250;5.3 ;3.5;2.5;2;4
+Audi;2.0 TFSI 190;2.0 TFSI;Essence;2.0 ;190;320;6.1 ;3;3;2;4
+Audi;1.4 40 204;40 TFSi e;Hybride;1.4 ;204;320;1.5 ;4;1.5;2;3.5
+Audi;1.4 45 245;45 TFSi e;Hybride;1.4 ;245;400;1.5 ;3.5;1.5;2;3.5
+Audi;45 TFSIE 245;2.0 TFSI;Essence;2.0 ;245;370;6.4 ;3;2.5;2;4
+Audi;2.0 TFSI 252;2.0 TFSI;Essence;2.0 ;252;370;6.9 ;3;2.5;2;4
+Audi;2.0 50 299 ;50 TFSI e;Hybride;2.0 ;299;450;1.7 ;3.5;1.5;2;3.5
+Audi;2.0 50 300;50 TFSI;Essence;2.0 ;300;380;6.9 ;2.5;3;2;4.5
+Audi;2.0 TFSI 310;2.0 TFSI;Essence;2.0 ;310;380;6.9 ;2.5;3;2;4.5
+Audi;2.0 TFSI 310 S3;2.0 TFSI;Essence;2.0 ;310;380;6.9 ;2.5;3;2;4.5
+Audi;2.0 TFSI 367;55 TFSI e;Hybride;2.0 ;367;500;7;3;1.5;2.5;5
+Audi;2.5 TFSI 400;2.5 TFSI;Essence;2.5 ;400;480;10.6 ;2.5;3.5;2;5
+Audi;1.6 TDI 116;1.6 TDI;Diesel;1.6 ;116;250;3.8 ;4.5;2.5;2;3.5
+Audi;2.0 TDI 150;2.0 TDI;Diesel;2.0 ;150;360;4.4 ;4.5;3;2;3.5
+Audi;2.0 TDI 190;2.0 TDI;Diesel;2.0 ;190;400;4.8 ;4;3;2;3.5
+Audi;3.0 45 231;3.0 TDI;Diesel;3.0 ;231;500;5.5 ;4;4;2;4
+Audi;3.0 50 286;3.0 TDI;Diesel;3.0 ;286;620;5.7 ;4;4;2;4.5
+Audi;2.9 V6 450;2.9 V6 450;Essence;2.9 ;450;600;8.7 ;3;3;2;5
+Audi;4.0 TFSI 450;4.0 TFSI;Essence;4.0 ;450;600;9.2 ;2.5;3;2;5
+Audi;4.0 TFSI 600;4.0 TFSI;Essence;4.0 ;600;800;12.3 ;2.5;3;2;5
+Audi;4.0 TFSI 605 PERFORMANCE;4.0 TFSI;Essence;4.0 ;605;800;12.4 ;2.5;3;2;5
