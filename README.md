@@ -1,6 +1,6 @@
 # Stroke-Finance
 
-# Architecture ![icons8-restauration-de-base-de-données-30](https://user-images.githubusercontent.com/118398845/214827690-29f8d27a-0924-41a1-b497-621daf362856.png)
+# Introduction ![icons8-restauration-de-base-de-données-30](https://user-images.githubusercontent.com/118398845/214827690-29f8d27a-0924-41a1-b497-621daf362856.png)
 
 Dans le cadre du module Ydays pour cette 1ère version, nous avons décidé de chosir un projet se nommant "Stroke Finance" qui est une application web qui serait utile pour toute personne qui souhaiterait obtenir des informations détailées sur son véhicule, d'acheter un véhicule par la même occasion ou vendre son véhicule. Toutes nos données seront stockées dans une base de données mongodb compass. Les informations détaillées sont des notes évaluées sur 5 sous forme de jauges selon les catégories : 
 
@@ -20,7 +20,7 @@ Les différentes étapes sont :
  - Mettre dans le même csv les données scrappées et les informations détaillées
  - Ajouter le csv (scrape_centrale.csv) dans la base mongodb compass grâce à un programme python (prog_insert_scrap.py)
  - Créer un csv "Contact"(pour toutes personnes souhaitant nous contacter à partir de notre site) et l'ajouter (insert_msg.csv) dans la base mongodb compass grâce à un programme python (prog_insert_msgContact.py)
- - Création serveur Flask et site web
+ - Création serveur Flask, liaison serveur flask + site web & conception du site web avec toutes les fonctionnalitées et un rendement esthétique
  - Rédaction Github
  - Remplissage Trello
  - Amélioration potentielle pour une 2ème version
@@ -64,16 +64,6 @@ L'IDE que nous utilisons est VisualStudio Code.
 - Pour lancer le site, il suffira de lancer le fichier "app.py". Lors du run du fichier, veillez à être dans le bon chemin selon l'endroit ou vous avez stocké vos fichiers et dossiers ! 
 - Récupérer le lien généré par "app.py" qui est " http://127.0.0.1:5000" et collé dans un navigateur (de préférence Chrome --> meilleur rendu esthétique)
 
-## Insertion des données dans la Base Mongodb Compass
-
- - Ouvrez tout d'abord les fichiers **prog_insert_scrap.py** , **prog_insert_msgContact.py** puis inserrez votre connexion correpondante qui se trouve dans votre Mongosh (_dans notre exemple nous allons utilisé la connexion du groupe_):
-![image](https://user-images.githubusercontent.com/118398845/214821948-01842b1f-5ea9-47f3-97df-b0553b917c20.png).
-
- - Puis vous allez remplacer par votre connexion a cette endroit du script: 
- 
- ![image](https://user-images.githubusercontent.com/118398845/214965007-c64deb44-a73c-4470-8b15-5d239b12386a.png)
-
-- Puis une fois le script executer vous pouvez aller sur Mongocompass et faire un "__Reload DATA__" afin de raffraichir la Data Base et voir si les données ont bien été insérer dans la Base: ![image](https://user-images.githubusercontent.com/118398845/214893686-217c8788-a47b-4a87-a294-b11924657b20.png)
 
 ## Lancement MongoDB et MongoSH !
 
@@ -89,12 +79,23 @@ Une fois MongoSh lancer vous allez être diriger vers cette page :
 
 ![image](https://user-images.githubusercontent.com/118398845/214807947-221f3776-7479-41f0-8745-55eaa78b27f9.png)
 
-Il faut appuyer sur la touche "__ENTRER__"![icons8-touche-entrée-48](https://user-images.githubusercontent.com/118398845/214808187-4534a048-76f7-4940-aeb6-00c5c5ca07f6.png)
+Appuyer sur la touche "__ENTRER__" ![icons8-touche-entrée-48](https://user-images.githubusercontent.com/118398845/214808187-4534a048-76f7-4940-aeb6-00c5c5ca07f6.png) pour faire venir la connexion string
 
 - Faire un "show dbs" pour voir les bases de données qu'il y a dans notre base de données 
 - Faire un "use Projet_Ydays" par exemple pour se connecter à cette base de données
 - Faire un "show collections" pour voir les collections dans cette base de données
 - Faire un "db.Contact.find({})" pour voir ce qu'il y a dans la collection "Contact"
+
+## Insertion des données dans la Base Mongodb Compass
+
+- Ouvrez tout d'abord les fichiers **prog_insert_scrap.py** , **prog_insert_msgContact.py** puis inserrez votre connexion correpondante qui se trouve dans votre Mongosh (_dans notre exemple nous allons utilisé la connexion du groupe_):
+![image](https://user-images.githubusercontent.com/118398845/214821948-01842b1f-5ea9-47f3-97df-b0553b917c20.png).
+
+- Puis vous allez remplacer par votre connexion a cette endroit du script: 
+ 
+![image](https://user-images.githubusercontent.com/118398845/214965007-c64deb44-a73c-4470-8b15-5d239b12386a.png)
+
+- Puis une fois le script executer vous pouvez aller sur Mongocompass et faire un "__Reload DATA__"  ![image](https://user-images.githubusercontent.com/118398845/214893686-217c8788-a47b-4a87-a294-b11924657b20.png) afin de raffraichir la base de données et voir si les données ont bien été insérées dans la base.
 
 ### - Mongo DB Compass
 
