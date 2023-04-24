@@ -112,19 +112,15 @@ Pour lancer MongoDBCompass il suffit de lancer l'application .
 Notre site internet cible pour le moment des clients de la centrale où toutes personnes souhaitant obtenir des informations détaillées pour potentiellement vendre son véhicule ou acheter un véhicule. Grâce à une capacité de filtre dans "Recherchez votre véhicule" sur notre site, le client pourra mettre le plus d'informations possible selon ce qu'il connait pour chercher la voiture qu'il lui faut, ou s'il veut avoir des informations dessus qu'il mette les informations qu'il souhaite.
 De plus, si un client souhaite nous contacter, il est tout à fait possible. Il suffit d'aller dans "Contact".
 
-### Recherche d'un vehicule
+https://user-images.githubusercontent.com/118398845/234105328-53824579-5cf6-42e0-a4b1-abc6d734b477.mp4
+
+### Recherche d'un vehicule et envoie d'un message
 
 
 
 https://user-images.githubusercontent.com/118398845/234105285-23b9173f-edde-4a49-84d5-a889e55657e3.mp4
 
 
-https://user-images.githubusercontent.com/118398845/234105328-53824579-5cf6-42e0-a4b1-abc6d734b477.mp4
-
-
-
-### Envoi d'un message 
-   Capture d'écran
 
 ## Points blocants/Améliorations potentielles
 
