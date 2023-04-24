@@ -1,0 +1,8 @@
+pandas
+Flask pymongo
+bs4
+pymongo
+DateTime
+matplotlib
+seaborn
+python-dateutil
