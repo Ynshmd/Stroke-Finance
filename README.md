@@ -40,6 +40,7 @@ Sur ce projet , il faut installer :
 - [Installer Python](https://www.python.org/downloads/)
 - [Installer Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
 - [Installer Flask pymongo]
+- [Installer VSCode]
 
   **En ligne de commande**
   
