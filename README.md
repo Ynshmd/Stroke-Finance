@@ -57,7 +57,7 @@ Une fois toute les installations et configurations effectuées nous allons execu
 
 L'IDE que nous utilisons est VisualStudio Code.
 
-- [Installer VisualStudio](https://code.visualstudio.com/download)
+- [Installer VisualStudio Code](https://code.visualstudio.com/download)
 
 - Faire un open folder du dossier du site, /!\ attention à bien respecter l'architecture des dossiers et fichiers pour bien faire fonctionner le projet.
 - Par exemple dans un dossier appelé dans notre cas "YDAYS2", dans ce dossier il doit y avoir un dossier "site", dans le dossier "site", il doit y avoir un fichier "app.py" et un dossier appelé "templates". Dans le dossier "templates", il doit y avoir tous les fichiers pythons, html,php, csv. 
