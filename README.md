@@ -42,7 +42,7 @@ Sur ce projet , il faut installer :
 
   **En ligne de commande**
   
-   - __Installer les librairie qu'on a besoin__
+   - __Installer les librairies qu'on a besoin__
    
    ``````
    pip install -r requirements.txt
