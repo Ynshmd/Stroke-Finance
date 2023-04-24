@@ -124,7 +124,7 @@ https://user-images.githubusercontent.com/118398845/234105285-23b9173f-edde-4a49
 
 ## Points blocants/Améliorations potentielles
 
-Au début nous étions partis, sur un scrap que nous avons fait nous-mêmes pour scrappé les données de LaCentrale avec un programme python et un autre programme d'agreggate qui nous permettait de lier des collections mongodb entre-elles, ainsi pour obtenir des données en live grâce à un bouton qui serait sur notre site qui permettrait d'avoir des données en temps réels. 
+Au début nous étions partis, sur un scrap que nous avons fait nous-mêmes pour scrappé les données de LaCentrale avec un programme python (__prog_insertScrap_Mongo.py qui se situe a la racine__) et un autre programme d'agreggate (dans le dossier templates __prog_Agregate_collection.py__) qui nous permettait de lier des collections mongodb entre-elles, ainsi pour obtenir des données en live grâce à un bouton qui serait sur notre site qui permettrait d'avoir des données en temps réels. 
 
 Cependant, LaCentrale entre temps à améliorer son site web, et notre programme de scrap ne fonctionnait plus... étant donné que nous voulions pas perdre trop de temps la dessus, nous avons décidé de trouver une autre solution pour respecter la deadline, d'où l'utilisation de l'outil WebScrapper. Hélas, avec cet outil, nous avons des données brutes et non en live. Le scrap a été le plus gros point blocant en terme de temps pour ce projet. Nous avons eu des problèmes de ressources matérielles par rapport à la puissance de certaines machines, des problèmes de qualité des données lors du scrap il a donc fallut arranger tout cela pour que notre base de données soit qualitative.
 
