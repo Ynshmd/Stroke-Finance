@@ -39,7 +39,6 @@ Sur ce projet , il faut installer :
 - [Installer MongoSH](https://www.mongodb.com/try/download/shell)
 - [Installer Python](https://www.python.org/downloads/)
 - [Installer Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
-- [Installer Flask pymongo]
 
   **En ligne de commande**
   
@@ -60,7 +59,7 @@ L'IDE que nous utilisons est VisualStudio Code.
 - [Installer VisualStudio Code](https://code.visualstudio.com/download)
 
 - Faire un open folder du dossier du site, /!\ attention à bien respecter l'architecture des dossiers et fichiers pour bien faire fonctionner le projet.
-- Par exemple dans un dossier appelé dans notre cas "YDAYS2", dans ce dossier il doit y avoir un dossier "site", dans le dossier "site", il doit y avoir un fichier "app.py" et un dossier appelé "templates". Dans le dossier "templates", il doit y avoir tous les fichiers pythons, html,php, csv. 
+- Par exemple dans un dossier appelé dans notre cas "Ydays2", dans ce dossier il doit y avoir un dossier "site", dans le dossier "site", il doit y avoir un fichier "app.py" et un dossier appelé "templates". Dans le dossier "templates", il doit y avoir tous les fichiers pythons, html,php, csv. 
 - Pour lancer le site, il suffira de lancer le fichier "app.py". Lors du run du fichier, veillez à être dans le bon chemin selon l'endroit ou vous avez stocké vos fichiers et dossiers ! 
 - Récupérer le lien généré par "app.py" qui est " http://127.0.0.1:5000" et collé dans un navigateur (de préférence Chrome --> meilleur rendu esthétique)
 
@@ -114,8 +113,15 @@ Notre site internet cible pour le moment des clients de la centrale où toutes p
 De plus, si un client souhaite nous contacter, il est tout à fait possible. Il suffit d'aller dans "Contact".
 
 ### Recherche d'un vehicule
-  Capture d'écran
-  
+
+
+
+https://user-images.githubusercontent.com/118398845/234105285-23b9173f-edde-4a49-84d5-a889e55657e3.mp4
+
+
+https://user-images.githubusercontent.com/118398845/234105328-53824579-5cf6-42e0-a4b1-abc6d734b477.mp4
+
+
 
 ### Envoi d'un message 
    Capture d'écran
