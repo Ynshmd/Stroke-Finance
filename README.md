@@ -8,7 +8,7 @@ Dans le cadre du module Ydays pour cette 1ère version, nous avons décidé de c
  - La fiabilité
  - La durée de la garantie constructeur
  - Les performances
- - La côté attendue
+ - La cote attendue
  - L'habitabilité 
  
 Les différentes étapes sont :
