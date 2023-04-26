@@ -22,7 +22,7 @@ Les différentes étapes sont :
  - Créer un csv "Contact"(pour toutes personnes souhaitant nous contacter à partir de notre site) et l'ajouter (insert_msg.csv) dans la base mongodb compass grâce à un programme python (prog_insert_msgContact.py)
  - Création serveur Flask, liaison serveur flask + site web & conception du site web avec toutes les fonctionnalitées et un rendement esthétique
  - Rédaction Github
- - Remplissage Trello
+ - [Remplissage Trello](https://trello.com/b/Os0mVTke/stroke-finance)
  - Amélioration potentielle pour une 2ème version
 
 * *Ce Read me a été réalisé sous windows 10 mais est identique pour Windows 11 , Linux et Mac.* 
